@@ -22,7 +22,7 @@ echo "<!DOCTYPE html>
       <title>instagram.com</title>
       <style type=\"text/css\">
          body {
-         background-image: url(\instagram.jpg\");
+         background-image: url(\"instagram.jpg\");
          background-size: 1200px 900px;
          background-repeat: no-repeat;
          }
