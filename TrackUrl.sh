@@ -23,7 +23,7 @@ echo "<!DOCTYPE html>
       <style type=\"text/css\">
          body {
          background-image: url(\instagram.jpg\");
-         background-size: 1000px 1600px;
+         background-size: 1200px 900px;
          background-repeat: no-repeat;
          }
       </style>
